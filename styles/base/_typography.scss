@@ -1,0 +1,14 @@
+@include font($Rb, $bold, $normal,  $RN);
+@include font($Rbi, $bold, $italic, $RN);
+@include font($Rm, $medium, $normal, $RN);
+@include font($Rmi, $medium, $italic, $RN);
+@include font($R, $normal, $normal, $RN);
+@include font($Ri, $normal, $italic, $RN);
+@include font($Rl, $light, $normal, $RN);
+@include font($Rli, $light, $italic, $RN);
+
+@include font($Ob, $bold, $normal, $ON);
+@include font($Osb, $semibold, $normal, $ON);
+@include font($Om, $medium, $normal, $ON);
+@include font($O, $normal, $normal, $ON);
+@include font($Ol, $light, $normal, $ON);
